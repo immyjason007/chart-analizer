@@ -7,4 +7,4 @@ matplotlib==3.8.2
 plotly==5.18.0
 Pillow==10.1.0
 scipy==1.11.4
-pandas-ta==1.21.3
+pandas-ta==0.4.67b0
